@@ -1,0 +1,5 @@
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystem\PizzeriaOrdersSystem\PizzeriaOrdersSystem.exe
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystem\PizzeriaOrdersSystem\PizzeriaOrdersSystem.dll
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystem\PizzeriaOrdersSystem\PizzeriaOrdersSystem.deps.json
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystem\PizzeriaOrdersSystem\PizzeriaOrdersSystem.runtimeconfig.json
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystem\PizzeriaOrdersSystem\PizzeriaOrdersSystem.pdb

@@ -1,0 +1,14 @@
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\bin\Debug\net8.0\PizzeriaOrdersSystem.exe
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\bin\Debug\net8.0\PizzeriaOrdersSystem.deps.json
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\bin\Debug\net8.0\PizzeriaOrdersSystem.runtimeconfig.json
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\bin\Debug\net8.0\PizzeriaOrdersSystem.dll
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\bin\Debug\net8.0\PizzeriaOrdersSystem.pdb
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\obj\Debug\net8.0\PizzeriaOrdersSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\obj\Debug\net8.0\PizzeriaOrdersSystem.AssemblyInfoInputs.cache
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\obj\Debug\net8.0\PizzeriaOrdersSystem.AssemblyInfo.cs
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\obj\Debug\net8.0\PizzeriaOrdersSystem.csproj.CoreCompileInputs.cache
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\obj\Debug\net8.0\PizzeriaOrdersSystem.dll
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\obj\Debug\net8.0\refint\PizzeriaOrdersSystem.dll
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\obj\Debug\net8.0\PizzeriaOrdersSystem.pdb
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\obj\Debug\net8.0\PizzeriaOrdersSystem.genruntimeconfig.cache
+C:\Users\m123j\OneDrive\Pulpit\PizzeriaOrdersSystemProject\PizzeriaOrdersSystem\obj\Debug\net8.0\ref\PizzeriaOrdersSystem.dll
